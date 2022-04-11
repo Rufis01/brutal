@@ -30,6 +30,10 @@ struct lconv
     char int_n_sign_posn;
 };
 
+#ifndef NULL
+#    define NULL ((void *)0)
+#endif
+
 #define LC_ALL (0)
 #define LC_COLLATE (1)
 #define LC_CTYPE (2)

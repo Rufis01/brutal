@@ -182,21 +182,21 @@ The following roadmap is always subject to change.
 - [ ] fenv.h
 - [ ] float.h
 - [ ] inttypes.h
-- [ ] iso646.h
+- [x] iso646.h
 - [ ] limits.h
 - [ ] locale.h
 - [ ] math.h
 - [ ] setjmp.h
 - [ ] signal.h
-- [ ] stdalign.h
-- [ ] stdarg.h
+- [x] stdalign.h
+- [x] stdarg.h
 - [ ] stdatomic.h
-- [ ] stdbool.h
+- [x] stdbool.h
 - [ ] stddef.h
 - [ ] stdint.h
 - [ ] stdio.h
 - [ ] stdlib.h
-- [ ] stdnoreturn.h
+- [x] stdnoreturn.h
 - [ ] string.h
 - [ ] tgmath.h
 - [ ] threads.h
